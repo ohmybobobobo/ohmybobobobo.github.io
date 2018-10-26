@@ -45,7 +45,7 @@
 
        $(document).ready(function(){
          $('h4').on('click',function(){
-           $('p5').slideToggle();
+           $('#airtable-embed').show();
          });
        });
     </script>
@@ -69,7 +69,13 @@
               <a class="nav-link" href="index.html">home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about.html">do some math</a>
+              <a class="nav-link" href="items.html">items</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="stores.html">stores</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">brands</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="contact.html">contact us</a>
@@ -127,7 +133,9 @@
                     </p><p6  id="demo6">
                       .．．．．It's a boat.
                     </P>
+                    </ul>
                     <br>
+                    <iframe id="airtable-embed" style="display: none" src="https://airtable.com/embed/shrSfRTBNbhnvRApX?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
                   </br>
              </div>
            </div>
