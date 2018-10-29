@@ -33,6 +33,29 @@
            $('#airtable-embed').show();
          });
        });
+
+       $(document).ready(function(){
+      $('#data-table').DataTable({
+           "ajax"     :     "employee_data.json",
+           "columns"     :     [
+                {     "data"     :     "name"     },
+                {     "data"     :     "gender"},
+                {     "data"     :     "designation"}
+           ]
+      });
+      var chart = c3.generate({
+          data: {
+              columns: [
+                ['Lulu', 50,4,3,2],
+                ['Olaf', 50,6,8,1]
+              ],
+              type : 'bar'
+          },
+          bar: {
+              title: "Dogs love:",
+          }
+       });
+ });
     </script>
 
   </head>
@@ -101,6 +124,21 @@
           </div>
       </div>
 
+      <br /><br />
+                <div class="container">
+                     <h1 align="center">Show JSON Data in Jquery Datatables</h3><br />
+                     <h3 align="center">Employee Database</h3><br />
+                     <table id="data-table" class="table table-bordered">
+                          <thead>
+                               <tr>
+                                    <th>Name</th>
+                                    <th>Gender</th>
+                                    <th>Designation</th>
+                               </tr>
+                          </thead>
+                     </table>
+                     <div id="chart"></div>
+                </div>
     <!-- Footer -->
     <footer>
       <div class="container">
