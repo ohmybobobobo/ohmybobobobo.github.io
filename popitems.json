@@ -1,0 +1,3294 @@
+{
+  "records": [
+    {
+      "id": "rec08JdXzSQ73PPR4",
+      "fields": {
+        "name": "CHAMPION SMALL LOGO PKT TEE",
+        "Attachments": [
+          {
+            "id": "att0nstcT846eGyrU",
+            "url": "https://dl.airtable.com/Eh0rGnQKS6Whwi4KkLJf_8-1.jpg",
+            "filename": "8-1.jpg",
+            "size": 23389,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/wkgxhWCpRsGgepg0BwPE_small_8-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/TpNhNL4S52aW9EqrZqgH_large_8-1.jpg",
+                "width": 512,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/pKBejI8Roe9cyCF7e3Dj_full_8-1.jpg",
+                "width": 600,
+                "height": 600
+              }
+            }
+          }
+        ],
+        "price": 209,
+        "BRAND": [
+          "recQRIIPWJpqf78oD"
+        ],
+        "STORES TO BUY": [
+          "recO9nKiANIarZt3C",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "rectGE4dXVIm3rWB9"
+        ],
+        "colors": [
+          "blue"
+        ],
+        "Price_on_official_website": 134,
+        "brands": "CHAMPION",
+        "stores": "POPCORN",
+        "Price_spread": 75
+      },
+      "createdTime": "2018-10-24T17:29:54.000Z"
+    },
+    {
+      "id": "rec19aw4YtsOFcEgU",
+      "fields": {
+        "name": "SUPREME ETERNAL TEE",
+        "Attachments": [
+          {
+            "id": "attM4wR7GsbvSVvby",
+            "url": "https://dl.airtable.com/fdCbx1kgTGGwTRTnR84O_6-4.jpg",
+            "filename": "6-4.jpg",
+            "size": 13854,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/l2BFlgxLQJWZyjBbLN4f_small_6-4.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/VCn2jNZ7QtawWlOhvDfK_large_6-4.jpg",
+                "width": 454,
+                "height": 454
+              },
+              "full": {
+                "url": "https://dl.airtable.com/bmLsPKn6Q9WMSZyl7Ism_full_6-4.jpg",
+                "width": 454,
+                "height": 454
+              }
+            }
+          },
+          {
+            "id": "attZrmkOIMa3RTpfV",
+            "url": "https://dl.airtable.com/f8m1fHiwTxu1Sk5WgOfw_6-3.jpg",
+            "filename": "6-3.jpg",
+            "size": 15789,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/ayBQ9jnVQt6dBX1ghXaX_small_6-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/DhtUBSBqTpFSVumthGJA_large_6-3.jpg",
+                "width": 453,
+                "height": 453
+              },
+              "full": {
+                "url": "https://dl.airtable.com/nNpusc3TOKmBDBEeiZbw_full_6-3.jpg",
+                "width": 453,
+                "height": 453
+              }
+            }
+          },
+          {
+            "id": "att9bSb9yXPWu2aXZ",
+            "url": "https://dl.airtable.com/Z4iwWOCISau2kRexhqjQ_6-2.jpg",
+            "filename": "6-2.jpg",
+            "size": 15539,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/dWAQ2WQSzryggr79IvA5_small_6-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/jXwhNk92RYKjXmf9LAOQ_large_6-2.jpg",
+                "width": 453,
+                "height": 453
+              },
+              "full": {
+                "url": "https://dl.airtable.com/tHuJAgyeT7iofuEkiAf4_full_6-2.jpg",
+                "width": 453,
+                "height": 453
+              }
+            }
+          },
+          {
+            "id": "att5GQORvOtUN8l8k",
+            "url": "https://dl.airtable.com/qlHtKi4YROGeu8N9sYKs_6-1.jpg",
+            "filename": "6-1.jpg",
+            "size": 8677,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/f4RncLb7SaaxQMvRbEsQ_small_6-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/M0bJxRYFSrn172NB0PYh_large_6-1.jpg",
+                "width": 455,
+                "height": 455
+              },
+              "full": {
+                "url": "https://dl.airtable.com/7DfrUUFROW0WX33ppCkT_full_6-1.jpg",
+                "width": 455,
+                "height": 455
+              }
+            }
+          }
+        ],
+        "price": 690,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recXjzi8x4tBVCg5M",
+          "rec0WHMU6k5nPMHFn",
+          "recbKXn7JH6Zd5qES"
+        ],
+        "colors": [
+          "red",
+          "white",
+          "blue",
+          "yellow"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "OVERLAB",
+        "Price_spread": -137
+      },
+      "createdTime": "2018-10-24T17:11:46.000Z"
+    },
+    {
+      "id": "rec2Fg07P5Im9DQcB",
+      "fields": {
+        "name": "SUPREME REMEMBER TEE -WHITE",
+        "Attachments": [
+          {
+            "id": "attZvjUz2JfFlglTo",
+            "url": "https://dl.airtable.com/2JP0kJv2SHCm8lTQaG13_3-3.jpg",
+            "filename": "3-3.jpg",
+            "size": 14950,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/zYYv3lT2SAKThF69oeYd_small_3-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/OjoOJSoDTKq28hvSFpll_large_3-3.jpg",
+                "width": 454,
+                "height": 454
+              },
+              "full": {
+                "url": "https://dl.airtable.com/ZOiN1IqUQlVtgzzBNV9Q_full_3-3.jpg",
+                "width": 454,
+                "height": 454
+              }
+            }
+          },
+          {
+            "id": "attQbC1WYwWbYeQlE",
+            "url": "https://dl.airtable.com/joUTquqQlWzwhK9gjUCl_3-2.jpg",
+            "filename": "3-2.jpg",
+            "size": 22963,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/o92GfcaCQkGmbeZaeR8E_small_3-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/dsy5v91FRh2rIoIqG5OF_large_3-2.jpg",
+                "width": 451,
+                "height": 451
+              },
+              "full": {
+                "url": "https://dl.airtable.com/wk2CoWrTRlm1o9WPO0kD_full_3-2.jpg",
+                "width": 451,
+                "height": 451
+              }
+            }
+          },
+          {
+            "id": "attxaZnU6kzvZ3PuH",
+            "url": "https://dl.airtable.com/Uo80mZxHTlybxMGEloF1_3-1.jpg",
+            "filename": "3-1.jpg",
+            "size": 9745,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/Gx5lW1e7RoiyElVFIXQ1_small_3-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/GuLxJT5QvSFd3P1Jbvnb_large_3-1.jpg",
+                "width": 454,
+                "height": 454
+              },
+              "full": {
+                "url": "https://dl.airtable.com/eMILq9zIT9mZh8uwUQ6X_full_3-1.jpg",
+                "width": 454,
+                "height": 454
+              }
+            }
+          }
+        ],
+        "price": 899,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recSoqRQONFVudKoq"
+        ],
+        "colors": [
+          "green"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "EXTENSIVE PUBLICITY",
+        "Price_spread": 72
+      },
+      "createdTime": "2018-10-24T17:06:07.000Z"
+    },
+    {
+      "id": "rec2q3b1XICeCP3BY",
+      "fields": {
+        "name": "CARROTS BETA-CAROTENE T-SHIRT",
+        "Attachments": [
+          {
+            "id": "attJQipGkuQj6tQIm",
+            "url": "https://dl.airtable.com/5qkYHNsTTDiyyNjNBYaY_12-2.jpg",
+            "filename": "12-2.jpg",
+            "size": 15864,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/bvetzIVBQladx4LlhVwD_small_12-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/CPKeurtRF6epY31ywewg_large_12-2.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/Vue7NUL7TQOPkls61CVt_full_12-2.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "att4M9RVicojT69DB",
+            "url": "https://dl.airtable.com/IZ3THJZqQ02ntI4ex9Yg_12-1.jpg",
+            "filename": "12-1.jpg",
+            "size": 18996,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/Pf2lmC12T8G6jk9EjBi6_small_12-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/d1lUGMYRIepewv6E7gql_large_12-1.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/rBeXaxvZTQauHpNOpUZn_full_12-1.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 398,
+        "BRAND": [
+          "recDHYvZk8TsIAXA7"
+        ],
+        "STORES TO BUY": [
+          "recO9nKiANIarZt3C",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "rectGE4dXVIm3rWB9"
+        ],
+        "colors": [
+          "white",
+          "black"
+        ],
+        "Price_on_official_website": 376,
+        "brands": "CARROTS",
+        "stores": "POPCORN",
+        "Price_spread": 22
+      },
+      "createdTime": "2018-10-24T17:43:30.000Z"
+    },
+    {
+      "id": "rec3qHaJRjIwnmgGe",
+      "fields": {
+        "name": "ANTISOCIALSOCIALCLUB BLOCKED BLACK HOODY",
+        "Attachments": [
+          {
+            "id": "attBjfVkG8YNi6vP7",
+            "url": "https://dl.airtable.com/kyNzkLn7RgOzimiach0J_15-1.jpeg",
+            "filename": "15-1.jpeg",
+            "size": 64954,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/sc0lPCR3Q8S6K5Lz9LvJ_small_15-1.jpeg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/rybzrGWMTZOX2Di86YA1_large_15-1.jpeg",
+                "width": 512,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/RYbxZB5QQrG8s4L043MG_full_15-1.jpeg",
+                "width": 1000,
+                "height": 1000
+              }
+            }
+          }
+        ],
+        "price": 799,
+        "BRAND": [
+          "recP1RC8WlW2m2yid"
+        ],
+        "STORES TO BUY": [
+          "recbKXn7JH6Zd5qES",
+          "rec0WHMU6k5nPMHFn",
+          "recXjzi8x4tBVCg5M"
+        ],
+        "colors": [
+          "black"
+        ],
+        "Price_on_official_website": 539,
+        "brands": "ANTISOCIALSOCIALCLUB",
+        "stores": "OVERLAB",
+        "Price_spread": 260
+      },
+      "createdTime": "2018-10-25T17:10:32.000Z"
+    },
+    {
+      "id": "rec4Zhp7nu1B1FHlr",
+      "fields": {
+        "name": "CARROTS ALL OVER CARROTS T-SHIRT",
+        "Attachments": [
+          {
+            "id": "attqsLrjkJPjwjr3V",
+            "url": "https://dl.airtable.com/9v8qVL4VTJ6s0XhO7G5T_13-3.jpg",
+            "filename": "13-3.jpg",
+            "size": 37912,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/fegywZjIQ1y8cOGupW3e_small_13-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/hyLYfkKQ0ysfxuQUNyvm_large_13-3.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/SY6yZrdS3SF3Fvt1o7Rl_full_13-3.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "attdDkwxINsGzXAfg",
+            "url": "https://dl.airtable.com/kn8Kx84wTra9Am8TlQhR_13-2.jpg",
+            "filename": "13-2.jpg",
+            "size": 33825,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/xWMQ8q8lSK2xIZYbE6gF_small_13-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/4SCIkX5GQ8K602kmQBds_large_13-2.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/QGoMM3vtT1L3MxrcTXIO_full_13-2.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "att5ah4yNPTqzCGsQ",
+            "url": "https://dl.airtable.com/r1vqWOGERNOKMWtzaQVW_13-1.jpg",
+            "filename": "13-1.jpg",
+            "size": 30689,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/OfvSSFosQBCKyjIfORTZ_small_13-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/nJDXERtCTvSIWbN3iQvA_large_13-1.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/fZzqHljoQH2T4o6d9cMs_full_13-1.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 398,
+        "BRAND": [
+          "recDHYvZk8TsIAXA7"
+        ],
+        "STORES TO BUY": [
+          "recO9nKiANIarZt3C",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "rectGE4dXVIm3rWB9"
+        ],
+        "colors": [
+          "orange",
+          "grey",
+          "black"
+        ],
+        "Price_on_official_website": 376,
+        "brands": "CARROTS",
+        "stores": "POPCORN",
+        "Price_spread": 22
+      },
+      "createdTime": "2018-10-24T17:44:49.000Z"
+    },
+    {
+      "id": "rec5vR8dCzhlIMLgI",
+      "fields": {
+        "name": "ANTISOCIALSOCIALCLUB BLOCKED FLANNEL WHITE",
+        "Attachments": [
+          {
+            "id": "attJ5dPa5VDvfZpsD",
+            "url": "https://dl.airtable.com/hk4XZoGRg2FReqzbE8g2_14-1.jpeg",
+            "filename": "14-1.jpeg",
+            "size": 33684,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/yVY1bvP9QoSC9SazkSmy_small_14-1.jpeg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/nZWwjdqTtKq4AF70LdBt_large_14-1.jpeg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/gTkiO9qyQL2PkGRYzIRa_full_14-1.jpeg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "attPXIXexsszDnExp",
+            "url": "https://dl.airtable.com/cSiZbKByRNufT3sISa7a_14-2.jpeg",
+            "filename": "14-2.jpeg",
+            "size": 30464,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/8mN4FpNRFeAb3MJUplD2_small_14-2.jpeg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/gWemadO1RjWUdYye62NF_large_14-2.jpeg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/uSLBQ6UiS3CfMd4p9N14_full_14-2.jpeg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 1398,
+        "BRAND": [
+          "recP1RC8WlW2m2yid"
+        ],
+        "STORES TO BUY": [
+          "rectGE4dXVIm3rWB9",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "recO9nKiANIarZt3C"
+        ],
+        "colors": [
+          "black",
+          "blue"
+        ],
+        "Price_on_official_website": 691,
+        "brands": "ANTISOCIALSOCIALCLUB",
+        "stores": "POPCORN",
+        "Price_spread": 707
+      },
+      "createdTime": "2018-10-25T16:57:53.000Z"
+    },
+    {
+      "id": "recBtydJ60nppnNAn",
+      "fields": {
+        "name": "ANTISOCIALSOCIALCLUB BLOCKED BLACK HOODY",
+        "Attachments": [
+          {
+            "id": "attBjfVkG8YNi6vP7",
+            "url": "https://dl.airtable.com/kyNzkLn7RgOzimiach0J_15-1.jpeg",
+            "filename": "15-1.jpeg",
+            "size": 64954,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/sc0lPCR3Q8S6K5Lz9LvJ_small_15-1.jpeg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/rybzrGWMTZOX2Di86YA1_large_15-1.jpeg",
+                "width": 512,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/RYbxZB5QQrG8s4L043MG_full_15-1.jpeg",
+                "width": 1000,
+                "height": 1000
+              }
+            }
+          }
+        ],
+        "price": 1098,
+        "BRAND": [
+          "recP1RC8WlW2m2yid"
+        ],
+        "STORES TO BUY": [
+          "rectGE4dXVIm3rWB9",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "recO9nKiANIarZt3C"
+        ],
+        "colors": [
+          "black"
+        ],
+        "Price_on_official_website": 539,
+        "brands": "ANTISOCIALSOCIALCLUB",
+        "stores": "POPCORN",
+        "Price_spread": 559
+      },
+      "createdTime": "2018-10-25T17:09:47.000Z"
+    },
+    {
+      "id": "recEi3Q6EbRmlbre5",
+      "fields": {
+        "name": "RIPNDIP LORD NERMAL SOCKS",
+        "Attachments": [
+          {
+            "id": "attBvDVjgPxODQJXJ",
+            "url": "https://dl.airtable.com/FLJYUg9RQCX9gDG0sNer_7-2.jpg",
+            "filename": "7-2.jpg",
+            "size": 20079,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/thexCXrARmm9SGAzazfA_small_7-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/nQTwcz01TFixjVEkudfE_large_7-2.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/gA57F8SpO98ohvlwVMwX_full_7-2.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "attfWqUY4Sb6V5hST",
+            "url": "https://dl.airtable.com/i39IjLBTbyEkqzGAjUla_7-1.jpg",
+            "filename": "7-1.jpg",
+            "size": 13864,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/oPRUNegTwOWJr3Jiewj3_small_7-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/eCeg4QpCTci5ABmhFOk7_large_7-1.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/Q8w4oJLCQ5eKaqx65pYt_full_7-1.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 149,
+        "BRAND": [
+          "recrDCnXEr5CIcE9G"
+        ],
+        "STORES TO BUY": [
+          "recO9nKiANIarZt3C",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "rectGE4dXVIm3rWB9"
+        ],
+        "colors": [
+          "green",
+          "grey"
+        ],
+        "Price_on_official_website": 94,
+        "brands": "RIPNDIP",
+        "stores": "POPCORN",
+        "Price_spread": 55
+      },
+      "createdTime": "2018-10-24T17:21:24.000Z"
+    },
+    {
+      "id": "recHb72xGP0WJVT9O",
+      "fields": {
+        "name": "ANTISOCIALSOCIALCLUB KKOCH TEE",
+        "Attachments": [
+          {
+            "id": "attp6KtkOIMn2Vm9Q",
+            "url": "https://dl.airtable.com/zPQaw7LjTV6IcMcu7mIV_16-3.jpg",
+            "filename": "16-3.jpg",
+            "size": 17740,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/wZgRTdu5SoChEqoHjaOC_small_16-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/qo1JuTTQO6YQl1s8X54v_large_16-3.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/NBIhgH1LRDiwKDtIACkR_full_16-3.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "att4xB8uY1NMIbUL7",
+            "url": "https://dl.airtable.com/3HTlGJQqme7m8u7PqSxQ_16-2.jpeg",
+            "filename": "16-2.jpeg",
+            "size": 21714,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/pRwX6fg7SDqa1UCw9xtx_small_16-2.jpeg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/TFi1ErvtRIOCDJJtlcsn_large_16-2.jpeg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/BLaB54nSzqwjcntiM2iS_full_16-2.jpeg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "att7oeahvzlTeXJTN",
+            "url": "https://dl.airtable.com/t4m8oleMTVGQchDAhhUu_16-1.jpg",
+            "filename": "16-1.jpg",
+            "size": 15924,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/fomi1EJ0TzEE6cTk66HQ_small_16-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/xSYISg2qTDS5yiaaMzfS_large_16-1.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/kK1oMRd5T6aMkSUVnws2_full_16-1.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 348,
+        "BRAND": [
+          "recP1RC8WlW2m2yid"
+        ],
+        "STORES TO BUY": [
+          "recbKXn7JH6Zd5qES",
+          "rec0WHMU6k5nPMHFn",
+          "recXjzi8x4tBVCg5M"
+        ],
+        "colors": [
+          "white",
+          "black",
+          "pink"
+        ],
+        "Price_on_official_website": 238,
+        "brands": "ANTISOCIALSOCIALCLUB",
+        "stores": "OVERLAB",
+        "Price_spread": 110
+      },
+      "createdTime": "2018-10-25T17:16:34.000Z"
+    },
+    {
+      "id": "recI4di85FEx0Cypp",
+      "fields": {
+        "name": "CARROTS GUCCUO WORDMARK T-SHIRT",
+        "Attachments": [
+          {
+            "id": "attwruQtj2rM280Wr",
+            "url": "https://dl.airtable.com/4d6tZJXAQiGTOKhgZlp9_9-2.jpg",
+            "filename": "9-2.jpg",
+            "size": 18424,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/IkKTW8OzRYq2nNwcG0Hd_small_9-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/7AAIQSSeRFa8LDRkgaZw_large_9-2.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/JKfJRkJaRHmk0DP7e2pb_full_9-2.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "attZX2sxaLsDsx1DY",
+            "url": "https://dl.airtable.com/haQe9WKtQty0nlCqjNOt_9-1.jpg",
+            "filename": "9-1.jpg",
+            "size": 14534,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/sBhFNY33RMKeuokHQ1mI_small_9-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/IPFJOit7TSX4XstYbEtw_large_9-1.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/T79Vp8jTRBWVDpjryytg_full_9-1.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "attgklVYc2V7a8RQM",
+            "url": "https://dl.airtable.com/tWNWqzksTRm7wxSc2Z8g_10-1.jpg",
+            "filename": "10-1.jpg",
+            "size": 37182,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/rYoc5vjBSs67KJKRnkBX_small_10-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/HGurcNMxTvS9wRCX4Y6S_large_10-1.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/yuLyXyHjSqClFmVvFksQ_full_10-1.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 398,
+        "BRAND": [
+          "recDHYvZk8TsIAXA7"
+        ],
+        "STORES TO BUY": [
+          "recO9nKiANIarZt3C",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "rectGE4dXVIm3rWB9"
+        ],
+        "colors": [
+          "black",
+          "white",
+          "grey"
+        ],
+        "Price_on_official_website": 376,
+        "brands": "CARROTS",
+        "stores": "POPCORN",
+        "Price_spread": 22
+      },
+      "createdTime": "2018-10-24T17:38:46.000Z"
+    },
+    {
+      "id": "recIn8MnYigyggUDv",
+      "fields": {
+        "name": "CARROTS BETA-CAROTENE T-SHIRT",
+        "Attachments": [
+          {
+            "id": "attJQipGkuQj6tQIm",
+            "url": "https://dl.airtable.com/5qkYHNsTTDiyyNjNBYaY_12-2.jpg",
+            "filename": "12-2.jpg",
+            "size": 15864,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/bvetzIVBQladx4LlhVwD_small_12-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/CPKeurtRF6epY31ywewg_large_12-2.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/Vue7NUL7TQOPkls61CVt_full_12-2.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "att4M9RVicojT69DB",
+            "url": "https://dl.airtable.com/IZ3THJZqQ02ntI4ex9Yg_12-1.jpg",
+            "filename": "12-1.jpg",
+            "size": 18996,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/Pf2lmC12T8G6jk9EjBi6_small_12-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/d1lUGMYRIepewv6E7gql_large_12-1.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/rBeXaxvZTQauHpNOpUZn_full_12-1.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 420,
+        "BRAND": [
+          "recDHYvZk8TsIAXA7"
+        ],
+        "STORES TO BUY": [
+          "rechm2i95xMzIX7Cc",
+          "recnIF5YrvTPaSWDr",
+          "recVrXJDdaqa9yJdH"
+        ],
+        "colors": [
+          "white",
+          "blue"
+        ],
+        "Price_on_official_website": 376,
+        "brands": "CARROTS",
+        "stores": "JUICE",
+        "Price_spread": 44
+      },
+      "createdTime": "2018-10-24T17:43:31.000Z"
+    },
+    {
+      "id": "recJLfZdDTVd6zQaX",
+      "fields": {
+        "name": "SUPREME REMEMBER TEE -WHITE",
+        "Attachments": [
+          {
+            "id": "attZvjUz2JfFlglTo",
+            "url": "https://dl.airtable.com/2JP0kJv2SHCm8lTQaG13_3-3.jpg",
+            "filename": "3-3.jpg",
+            "size": 14950,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/zYYv3lT2SAKThF69oeYd_small_3-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/OjoOJSoDTKq28hvSFpll_large_3-3.jpg",
+                "width": 454,
+                "height": 454
+              },
+              "full": {
+                "url": "https://dl.airtable.com/ZOiN1IqUQlVtgzzBNV9Q_full_3-3.jpg",
+                "width": 454,
+                "height": 454
+              }
+            }
+          },
+          {
+            "id": "attQbC1WYwWbYeQlE",
+            "url": "https://dl.airtable.com/joUTquqQlWzwhK9gjUCl_3-2.jpg",
+            "filename": "3-2.jpg",
+            "size": 22963,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/o92GfcaCQkGmbeZaeR8E_small_3-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/dsy5v91FRh2rIoIqG5OF_large_3-2.jpg",
+                "width": 451,
+                "height": 451
+              },
+              "full": {
+                "url": "https://dl.airtable.com/wk2CoWrTRlm1o9WPO0kD_full_3-2.jpg",
+                "width": 451,
+                "height": 451
+              }
+            }
+          },
+          {
+            "id": "attxaZnU6kzvZ3PuH",
+            "url": "https://dl.airtable.com/Uo80mZxHTlybxMGEloF1_3-1.jpg",
+            "filename": "3-1.jpg",
+            "size": 9745,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/Gx5lW1e7RoiyElVFIXQ1_small_3-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/GuLxJT5QvSFd3P1Jbvnb_large_3-1.jpg",
+                "width": 454,
+                "height": 454
+              },
+              "full": {
+                "url": "https://dl.airtable.com/eMILq9zIT9mZh8uwUQ6X_full_3-1.jpg",
+                "width": 454,
+                "height": 454
+              }
+            }
+          }
+        ],
+        "price": 798,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recO9nKiANIarZt3C",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "rectGE4dXVIm3rWB9"
+        ],
+        "colors": [
+          "white"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "POPCORN",
+        "Price_spread": -29
+      },
+      "createdTime": "2018-10-24T17:06:04.000Z"
+    },
+    {
+      "id": "recLVu9dQyqMQoW2D",
+      "fields": {
+        "name": "ANTISOCIALSOCIALCLUB BLOCKED FLANNEL WHITE",
+        "Attachments": [
+          {
+            "id": "attJ5dPa5VDvfZpsD",
+            "url": "https://dl.airtable.com/hk4XZoGRg2FReqzbE8g2_14-1.jpeg",
+            "filename": "14-1.jpeg",
+            "size": 33684,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/yVY1bvP9QoSC9SazkSmy_small_14-1.jpeg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/nZWwjdqTtKq4AF70LdBt_large_14-1.jpeg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/gTkiO9qyQL2PkGRYzIRa_full_14-1.jpeg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "attPXIXexsszDnExp",
+            "url": "https://dl.airtable.com/cSiZbKByRNufT3sISa7a_14-2.jpeg",
+            "filename": "14-2.jpeg",
+            "size": 30464,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/8mN4FpNRFeAb3MJUplD2_small_14-2.jpeg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/gWemadO1RjWUdYye62NF_large_14-2.jpeg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/uSLBQ6UiS3CfMd4p9N14_full_14-2.jpeg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 899,
+        "BRAND": [
+          "recP1RC8WlW2m2yid"
+        ],
+        "STORES TO BUY": [
+          "recbKXn7JH6Zd5qES",
+          "rec0WHMU6k5nPMHFn",
+          "recXjzi8x4tBVCg5M"
+        ],
+        "colors": [
+          "red",
+          "yellow",
+          "white",
+          "blue"
+        ],
+        "Price_on_official_website": 691,
+        "brands": "ANTISOCIALSOCIALCLUB",
+        "stores": "OVERLAB",
+        "Price_spread": 208
+      },
+      "createdTime": "2018-10-25T16:57:54.000Z"
+    },
+    {
+      "id": "recMcigWSmi9yaIjR",
+      "fields": {
+        "name": "SUPREME PAYPHONE TEE",
+        "Attachments": [
+          {
+            "id": "attYmOfrVUyewrP5g",
+            "url": "https://dl.airtable.com/l9nqCm6RH6Ic5ds4HudA_4-3.jpg",
+            "filename": "4-3.jpg",
+            "size": 11481,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/YUo4ocL8S2STh8Czsz8B_small_4-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/PGyfEzsQQCi7nsduO76c_large_4-3.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/67yrO1ynTROGQDpXWCEF_full_4-3.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          },
+          {
+            "id": "att6a5IT3WR6NsDRn",
+            "url": "https://dl.airtable.com/t0qj9RGRQ2Cq5G1yNuF4_4-2.jpg",
+            "filename": "4-2.jpg",
+            "size": 13536,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/XupIpDIT3aAkf3SHAvLw_small_4-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/gD3vAD1TRSqOWJDC5ekQ_large_4-2.jpg",
+                "width": 451,
+                "height": 451
+              },
+              "full": {
+                "url": "https://dl.airtable.com/ZOP1ubdSsS2yGBHt3KI2_full_4-2.jpg",
+                "width": 451,
+                "height": 451
+              }
+            }
+          },
+          {
+            "id": "atthtsdJeRHRJuqnm",
+            "url": "https://dl.airtable.com/tFlEVYEQWujfBZPRRgK7_4-1.jpg",
+            "filename": "4-1.jpg",
+            "size": 6562,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/ySucz5NBTNaVeZQu1Ogm_small_4-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/LWdtzrfjQKO6FpCdyPSn_large_4-1.jpg",
+                "width": 454,
+                "height": 454
+              },
+              "full": {
+                "url": "https://dl.airtable.com/qvHnWmFpT7S62upQaBvs_full_4-1.jpg",
+                "width": 454,
+                "height": 454
+              }
+            }
+          }
+        ],
+        "price": 899,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recSoqRQONFVudKoq"
+        ],
+        "colors": [
+          "brown"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "EXTENSIVE PUBLICITY",
+        "Price_spread": 72
+      },
+      "createdTime": "2018-10-24T17:07:45.000Z"
+    },
+    {
+      "id": "recNtf9oyvuyny65h",
+      "fields": {
+        "name": "SUPREME SYSTEM TEE",
+        "Attachments": [
+          {
+            "id": "attItHTPiPgeYUzcS",
+            "url": "https://dl.airtable.com/kcNsiDLsSwCj9tEiZV8x_5-4.jpeg",
+            "filename": "5-4.jpeg",
+            "size": 21814,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/06uGi0QSh6NxO2Yj8ZWZ_small_5-4.jpeg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/mUgdjFMTem7PU5v70EPq_large_5-4.jpeg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/KUw2ESXQgO2yp01omn5g_full_5-4.jpeg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "atthND73sOYrOjDpJ",
+            "url": "https://dl.airtable.com/syN09tSgS1KHyqoioQ5s_5-3.jpeg",
+            "filename": "5-3.jpeg",
+            "size": 16580,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/re44jSHTvajcDJ3WP953_small_5-3.jpeg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/nGwDO69rTamEfxpHAAWT_large_5-3.jpeg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/qKMYPqKrQ7m9l0tiVNHt_full_5-3.jpeg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "atthGZXIKxUTd8mwi",
+            "url": "https://dl.airtable.com/9vazyqcZQZu0ePPxKNg9_5-2.jpg",
+            "filename": "5-2.jpg",
+            "size": 20014,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/w1xOEEdcSYqnXX3vEIhb_small_5-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/yuVLBOjRCiTvkGZeP4Cw_large_5-2.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/fR1R1vC5SCefMuIE399k_full_5-2.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "att0VfCUpRHusgb3J",
+            "url": "https://dl.airtable.com/W03ezEpcRM2a6k0Qc9PH_5-1.jpeg",
+            "filename": "5-1.jpeg",
+            "size": 17386,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/lZuQSF0THyy4WCSLQuHc_small_5-1.jpeg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/r0WMYQheSZ6AcL1e8E2t_large_5-1.jpeg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/qmmzvPhZQjC7ASLL92Pb_full_5-1.jpeg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 798,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recO9nKiANIarZt3C",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "rectGE4dXVIm3rWB9"
+        ],
+        "colors": [
+          "white",
+          "orange",
+          "red",
+          "black"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "POPCORN",
+        "Price_spread": -29
+      },
+      "createdTime": "2018-10-24T17:11:42.000Z"
+    },
+    {
+      "id": "recOqCHANRUr8lv9y",
+      "fields": {
+        "name": "SUPREME ETERNAL TEE",
+        "Attachments": [
+          {
+            "id": "attM4wR7GsbvSVvby",
+            "url": "https://dl.airtable.com/fdCbx1kgTGGwTRTnR84O_6-4.jpg",
+            "filename": "6-4.jpg",
+            "size": 13854,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/l2BFlgxLQJWZyjBbLN4f_small_6-4.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/VCn2jNZ7QtawWlOhvDfK_large_6-4.jpg",
+                "width": 454,
+                "height": 454
+              },
+              "full": {
+                "url": "https://dl.airtable.com/bmLsPKn6Q9WMSZyl7Ism_full_6-4.jpg",
+                "width": 454,
+                "height": 454
+              }
+            }
+          },
+          {
+            "id": "attZrmkOIMa3RTpfV",
+            "url": "https://dl.airtable.com/f8m1fHiwTxu1Sk5WgOfw_6-3.jpg",
+            "filename": "6-3.jpg",
+            "size": 15789,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/ayBQ9jnVQt6dBX1ghXaX_small_6-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/DhtUBSBqTpFSVumthGJA_large_6-3.jpg",
+                "width": 453,
+                "height": 453
+              },
+              "full": {
+                "url": "https://dl.airtable.com/nNpusc3TOKmBDBEeiZbw_full_6-3.jpg",
+                "width": 453,
+                "height": 453
+              }
+            }
+          },
+          {
+            "id": "att9bSb9yXPWu2aXZ",
+            "url": "https://dl.airtable.com/Z4iwWOCISau2kRexhqjQ_6-2.jpg",
+            "filename": "6-2.jpg",
+            "size": 15539,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/dWAQ2WQSzryggr79IvA5_small_6-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/jXwhNk92RYKjXmf9LAOQ_large_6-2.jpg",
+                "width": 453,
+                "height": 453
+              },
+              "full": {
+                "url": "https://dl.airtable.com/tHuJAgyeT7iofuEkiAf4_full_6-2.jpg",
+                "width": 453,
+                "height": 453
+              }
+            }
+          },
+          {
+            "id": "att5GQORvOtUN8l8k",
+            "url": "https://dl.airtable.com/qlHtKi4YROGeu8N9sYKs_6-1.jpg",
+            "filename": "6-1.jpg",
+            "size": 8677,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/f4RncLb7SaaxQMvRbEsQ_small_6-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/M0bJxRYFSrn172NB0PYh_large_6-1.jpg",
+                "width": 455,
+                "height": 455
+              },
+              "full": {
+                "url": "https://dl.airtable.com/7DfrUUFROW0WX33ppCkT_full_6-1.jpg",
+                "width": 455,
+                "height": 455
+              }
+            }
+          }
+        ],
+        "price": 798,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recO9nKiANIarZt3C",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "rectGE4dXVIm3rWB9"
+        ],
+        "colors": [
+          "white",
+          "pink",
+          "green",
+          "black"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "POPCORN",
+        "Price_spread": -29
+      },
+      "createdTime": "2018-10-24T17:16:16.000Z"
+    },
+    {
+      "id": "recPk0GoWeusJvX5F",
+      "fields": {
+        "name": "CHAMPION SMALL LOGO PKT TEE",
+        "Attachments": [
+          {
+            "id": "att0nstcT846eGyrU",
+            "url": "https://dl.airtable.com/Eh0rGnQKS6Whwi4KkLJf_8-1.jpg",
+            "filename": "8-1.jpg",
+            "size": 23389,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/wkgxhWCpRsGgepg0BwPE_small_8-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/TpNhNL4S52aW9EqrZqgH_large_8-1.jpg",
+                "width": 512,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/pKBejI8Roe9cyCF7e3Dj_full_8-1.jpg",
+                "width": 600,
+                "height": 600
+              }
+            }
+          }
+        ],
+        "price": 329,
+        "BRAND": [
+          "recQRIIPWJpqf78oD"
+        ],
+        "STORES TO BUY": [
+          "recXjzi8x4tBVCg5M",
+          "rec0WHMU6k5nPMHFn",
+          "recbKXn7JH6Zd5qES"
+        ],
+        "colors": [
+          "blue",
+          "white",
+          "pink"
+        ],
+        "Price_on_official_website": 134,
+        "brands": "CHAMPION",
+        "stores": "OVERLAB",
+        "Price_spread": 195
+      },
+      "createdTime": "2018-10-24T17:32:28.000Z"
+    },
+    {
+      "id": "recSEFYmgO6UX3bkG",
+      "fields": {
+        "name": "SUPREME PRINTED ARC S/S TOP",
+        "Attachments": [
+          {
+            "id": "att6O61PWZGb8xKnN",
+            "url": "https://dl.airtable.com/8KE9mK9QauvvYNinVkCT_2-3.jpg",
+            "filename": "2-3.jpg",
+            "size": 12464,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/reJA8fxXRuCYOCV83TtU_small_2-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/YpaxiglGT8eenLG3ifUm_large_2-3.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/UqBwl2jRjqxTvgRFm3Xc_full_2-3.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          },
+          {
+            "id": "atturAtxBQFFNIU8T",
+            "url": "https://dl.airtable.com/e7LvwBY8R8CZNalyCtOU_2-2.jpg",
+            "filename": "2-2.jpg",
+            "size": 26007,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/DizWGo9R4CQGhzRCCLZ5_small_2-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/l76cvd6SSAuERz2nFy0X_large_2-2.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/75CSw94WTVa2RPMPxlIU_full_2-2.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          },
+          {
+            "id": "attrbO61q5NbuM1DB",
+            "url": "https://dl.airtable.com/qmF29zWvSoGxi5HGPi0T_2-1.jpg",
+            "filename": "2-1.jpg",
+            "size": 9306,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/4kN2uzYnQ0al6Yq05Hjg_small_2-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/XU94jdfUROA8g3zSMa7B_large_2-1.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/otA6AIy3R5qMU4jQqrLm_full_2-1.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          }
+        ],
+        "price": 1190,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recXjzi8x4tBVCg5M",
+          "rec0WHMU6k5nPMHFn",
+          "recbKXn7JH6Zd5qES"
+        ],
+        "colors": [
+          "white",
+          "grey",
+          "black",
+          "purple",
+          "red",
+          "orange"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "OVERLAB",
+        "Price_spread": 363
+      },
+      "createdTime": "2018-10-24T16:31:09.000Z"
+    },
+    {
+      "id": "recStEODJJvGZC5Jp",
+      "fields": {
+        "name": "SUPREME NOUVEAU LOGO TEE",
+        "Attachments": [
+          {
+            "id": "attZae5OSX0A1kUue",
+            "url": "https://dl.airtable.com/EA3XKEBKTdeJDuXb2QF4_1-3.jpg",
+            "filename": "1-3.jpg",
+            "size": 11813,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/CyEvGYvQWaU7oB2OHQkL_small_1-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/u1kmjerwQ3KRjc6fndtK_large_1-3.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/zB8ghNxRGPYK5wSmovdQ_full_1-3.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          },
+          {
+            "id": "att8EMHwdcqr7uSvC",
+            "url": "https://dl.airtable.com/hFngLPWhQsCrmh6WcWlQ_1-2.jpg",
+            "filename": "1-2.jpg",
+            "size": 14879,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/uZPh1W4wRY69RKqSePKv_small_1-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/BLUybgHWScGMmf9t85RL_large_1-2.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/CqA6GlmSRXeEDvnRk4ix_full_1-2.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          },
+          {
+            "id": "attLIGTB8Ycm4G3ZA",
+            "url": "https://dl.airtable.com/7tyTx8laTouL63RpLPQm_1-1.jpg",
+            "filename": "1-1.jpg",
+            "size": 6158,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/dCHt9M9iQZelEgv2W6WS_small_1-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/NcCrozNKQweq5CmApvFs_large_1-1.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/Nc3jgeCQTky58WrFxo8I_full_1-1.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          }
+        ],
+        "price": 1190,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recXjzi8x4tBVCg5M",
+          "rec0WHMU6k5nPMHFn",
+          "recbKXn7JH6Zd5qES"
+        ],
+        "colors": [
+          "red",
+          "white",
+          "black",
+          "green",
+          "purple",
+          "brown",
+          "orange"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "OVERLAB",
+        "Price_spread": 363
+      },
+      "createdTime": "2018-10-24T16:31:09.000Z"
+    },
+    {
+      "id": "recTiBZAARICeuV2V",
+      "fields": {
+        "name": "SUPREME SYSTEM TEE",
+        "Attachments": [
+          {
+            "id": "attItHTPiPgeYUzcS",
+            "url": "https://dl.airtable.com/kcNsiDLsSwCj9tEiZV8x_5-4.jpeg",
+            "filename": "5-4.jpeg",
+            "size": 21814,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/06uGi0QSh6NxO2Yj8ZWZ_small_5-4.jpeg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/mUgdjFMTem7PU5v70EPq_large_5-4.jpeg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/KUw2ESXQgO2yp01omn5g_full_5-4.jpeg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "atthND73sOYrOjDpJ",
+            "url": "https://dl.airtable.com/syN09tSgS1KHyqoioQ5s_5-3.jpeg",
+            "filename": "5-3.jpeg",
+            "size": 16580,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/re44jSHTvajcDJ3WP953_small_5-3.jpeg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/nGwDO69rTamEfxpHAAWT_large_5-3.jpeg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/qKMYPqKrQ7m9l0tiVNHt_full_5-3.jpeg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "atthGZXIKxUTd8mwi",
+            "url": "https://dl.airtable.com/9vazyqcZQZu0ePPxKNg9_5-2.jpg",
+            "filename": "5-2.jpg",
+            "size": 20014,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/w1xOEEdcSYqnXX3vEIhb_small_5-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/yuVLBOjRCiTvkGZeP4Cw_large_5-2.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/fR1R1vC5SCefMuIE399k_full_5-2.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "att0VfCUpRHusgb3J",
+            "url": "https://dl.airtable.com/W03ezEpcRM2a6k0Qc9PH_5-1.jpeg",
+            "filename": "5-1.jpeg",
+            "size": 17386,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/lZuQSF0THyy4WCSLQuHc_small_5-1.jpeg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/r0WMYQheSZ6AcL1e8E2t_large_5-1.jpeg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/qmmzvPhZQjC7ASLL92Pb_full_5-1.jpeg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 690,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recXjzi8x4tBVCg5M",
+          "rec0WHMU6k5nPMHFn",
+          "recbKXn7JH6Zd5qES"
+        ],
+        "colors": [
+          "black",
+          "red"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "OVERLAB",
+        "Price_spread": -137
+      },
+      "createdTime": "2018-10-24T17:10:25.000Z"
+    },
+    {
+      "id": "recU0LHR99UTiHBuw",
+      "fields": {
+        "name": "CARROTS GUCCUO WORDMARK T-SHIRT",
+        "Attachments": [
+          {
+            "id": "attwruQtj2rM280Wr",
+            "url": "https://dl.airtable.com/4d6tZJXAQiGTOKhgZlp9_9-2.jpg",
+            "filename": "9-2.jpg",
+            "size": 18424,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/IkKTW8OzRYq2nNwcG0Hd_small_9-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/7AAIQSSeRFa8LDRkgaZw_large_9-2.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/JKfJRkJaRHmk0DP7e2pb_full_9-2.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "attZX2sxaLsDsx1DY",
+            "url": "https://dl.airtable.com/haQe9WKtQty0nlCqjNOt_9-1.jpg",
+            "filename": "9-1.jpg",
+            "size": 14534,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/sBhFNY33RMKeuokHQ1mI_small_9-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/IPFJOit7TSX4XstYbEtw_large_9-1.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/T79Vp8jTRBWVDpjryytg_full_9-1.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "attgklVYc2V7a8RQM",
+            "url": "https://dl.airtable.com/tWNWqzksTRm7wxSc2Z8g_10-1.jpg",
+            "filename": "10-1.jpg",
+            "size": 37182,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/rYoc5vjBSs67KJKRnkBX_small_10-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/HGurcNMxTvS9wRCX4Y6S_large_10-1.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/yuLyXyHjSqClFmVvFksQ_full_10-1.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 420,
+        "BRAND": [
+          "recDHYvZk8TsIAXA7"
+        ],
+        "STORES TO BUY": [
+          "rechm2i95xMzIX7Cc",
+          "recnIF5YrvTPaSWDr",
+          "recVrXJDdaqa9yJdH"
+        ],
+        "colors": [
+          "blue",
+          "grey"
+        ],
+        "Price_on_official_website": 376,
+        "brands": "CARROTS",
+        "stores": "JUICE",
+        "Price_spread": 44
+      },
+      "createdTime": "2018-10-24T17:38:47.000Z"
+    },
+    {
+      "id": "recUJMrCgwNXcxFRr",
+      "fields": {
+        "name": "SUPREME PAYPHONE TEE",
+        "Attachments": [
+          {
+            "id": "attYmOfrVUyewrP5g",
+            "url": "https://dl.airtable.com/l9nqCm6RH6Ic5ds4HudA_4-3.jpg",
+            "filename": "4-3.jpg",
+            "size": 11481,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/YUo4ocL8S2STh8Czsz8B_small_4-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/PGyfEzsQQCi7nsduO76c_large_4-3.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/67yrO1ynTROGQDpXWCEF_full_4-3.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          },
+          {
+            "id": "att6a5IT3WR6NsDRn",
+            "url": "https://dl.airtable.com/t0qj9RGRQ2Cq5G1yNuF4_4-2.jpg",
+            "filename": "4-2.jpg",
+            "size": 13536,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/XupIpDIT3aAkf3SHAvLw_small_4-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/gD3vAD1TRSqOWJDC5ekQ_large_4-2.jpg",
+                "width": 451,
+                "height": 451
+              },
+              "full": {
+                "url": "https://dl.airtable.com/ZOP1ubdSsS2yGBHt3KI2_full_4-2.jpg",
+                "width": 451,
+                "height": 451
+              }
+            }
+          },
+          {
+            "id": "atthtsdJeRHRJuqnm",
+            "url": "https://dl.airtable.com/tFlEVYEQWujfBZPRRgK7_4-1.jpg",
+            "filename": "4-1.jpg",
+            "size": 6562,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/ySucz5NBTNaVeZQu1Ogm_small_4-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/LWdtzrfjQKO6FpCdyPSn_large_4-1.jpg",
+                "width": 454,
+                "height": 454
+              },
+              "full": {
+                "url": "https://dl.airtable.com/qvHnWmFpT7S62upQaBvs_full_4-1.jpg",
+                "width": 454,
+                "height": 454
+              }
+            }
+          }
+        ],
+        "price": 690,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recXjzi8x4tBVCg5M",
+          "rec0WHMU6k5nPMHFn",
+          "recbKXn7JH6Zd5qES"
+        ],
+        "colors": [
+          "black",
+          "red"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "OVERLAB",
+        "Price_spread": -137
+      },
+      "createdTime": "2018-10-24T17:07:43.000Z"
+    },
+    {
+      "id": "recUfe4tkDtIlr0FX",
+      "fields": {
+        "name": "SUPREME REMEMBER TEE -WHITE",
+        "Attachments": [
+          {
+            "id": "attZvjUz2JfFlglTo",
+            "url": "https://dl.airtable.com/2JP0kJv2SHCm8lTQaG13_3-3.jpg",
+            "filename": "3-3.jpg",
+            "size": 14950,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/zYYv3lT2SAKThF69oeYd_small_3-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/OjoOJSoDTKq28hvSFpll_large_3-3.jpg",
+                "width": 454,
+                "height": 454
+              },
+              "full": {
+                "url": "https://dl.airtable.com/ZOiN1IqUQlVtgzzBNV9Q_full_3-3.jpg",
+                "width": 454,
+                "height": 454
+              }
+            }
+          },
+          {
+            "id": "attQbC1WYwWbYeQlE",
+            "url": "https://dl.airtable.com/joUTquqQlWzwhK9gjUCl_3-2.jpg",
+            "filename": "3-2.jpg",
+            "size": 22963,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/o92GfcaCQkGmbeZaeR8E_small_3-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/dsy5v91FRh2rIoIqG5OF_large_3-2.jpg",
+                "width": 451,
+                "height": 451
+              },
+              "full": {
+                "url": "https://dl.airtable.com/wk2CoWrTRlm1o9WPO0kD_full_3-2.jpg",
+                "width": 451,
+                "height": 451
+              }
+            }
+          },
+          {
+            "id": "attxaZnU6kzvZ3PuH",
+            "url": "https://dl.airtable.com/Uo80mZxHTlybxMGEloF1_3-1.jpg",
+            "filename": "3-1.jpg",
+            "size": 9745,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/Gx5lW1e7RoiyElVFIXQ1_small_3-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/GuLxJT5QvSFd3P1Jbvnb_large_3-1.jpg",
+                "width": 454,
+                "height": 454
+              },
+              "full": {
+                "url": "https://dl.airtable.com/eMILq9zIT9mZh8uwUQ6X_full_3-1.jpg",
+                "width": 454,
+                "height": 454
+              }
+            }
+          }
+        ],
+        "price": 750,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recXjzi8x4tBVCg5M",
+          "rec0WHMU6k5nPMHFn",
+          "recbKXn7JH6Zd5qES"
+        ],
+        "colors": [
+          "white",
+          "grey",
+          "black"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "OVERLAB",
+        "Price_spread": -77
+      },
+      "createdTime": "2018-10-24T17:01:04.000Z"
+    },
+    {
+      "id": "recVN14aPSgKRgxWe",
+      "fields": {
+        "name": "RIPNDIP LORD NERMAL SOCKS",
+        "Attachments": [
+          {
+            "id": "attBvDVjgPxODQJXJ",
+            "url": "https://dl.airtable.com/FLJYUg9RQCX9gDG0sNer_7-2.jpg",
+            "filename": "7-2.jpg",
+            "size": 20079,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/thexCXrARmm9SGAzazfA_small_7-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/nQTwcz01TFixjVEkudfE_large_7-2.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/gA57F8SpO98ohvlwVMwX_full_7-2.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "attfWqUY4Sb6V5hST",
+            "url": "https://dl.airtable.com/i39IjLBTbyEkqzGAjUla_7-1.jpg",
+            "filename": "7-1.jpg",
+            "size": 13864,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/oPRUNegTwOWJr3Jiewj3_small_7-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/eCeg4QpCTci5ABmhFOk7_large_7-1.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/Q8w4oJLCQ5eKaqx65pYt_full_7-1.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 130,
+        "BRAND": [
+          "recrDCnXEr5CIcE9G"
+        ],
+        "STORES TO BUY": [
+          "recXjzi8x4tBVCg5M",
+          "rec0WHMU6k5nPMHFn",
+          "recbKXn7JH6Zd5qES"
+        ],
+        "colors": [
+          "grey",
+          "white"
+        ],
+        "Price_on_official_website": 94,
+        "brands": "RIPNDIP",
+        "stores": "OVERLAB",
+        "Price_spread": 36
+      },
+      "createdTime": "2018-10-24T17:25:49.000Z"
+    },
+    {
+      "id": "recaP7XYLn1Ioedje",
+      "fields": {
+        "name": "CARROTS ALL OVER CARROTS T-SHIRT",
+        "Attachments": [
+          {
+            "id": "attqsLrjkJPjwjr3V",
+            "url": "https://dl.airtable.com/9v8qVL4VTJ6s0XhO7G5T_13-3.jpg",
+            "filename": "13-3.jpg",
+            "size": 37912,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/fegywZjIQ1y8cOGupW3e_small_13-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/hyLYfkKQ0ysfxuQUNyvm_large_13-3.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/SY6yZrdS3SF3Fvt1o7Rl_full_13-3.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "attdDkwxINsGzXAfg",
+            "url": "https://dl.airtable.com/kn8Kx84wTra9Am8TlQhR_13-2.jpg",
+            "filename": "13-2.jpg",
+            "size": 33825,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/xWMQ8q8lSK2xIZYbE6gF_small_13-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/4SCIkX5GQ8K602kmQBds_large_13-2.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/QGoMM3vtT1L3MxrcTXIO_full_13-2.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "att5ah4yNPTqzCGsQ",
+            "url": "https://dl.airtable.com/r1vqWOGERNOKMWtzaQVW_13-1.jpg",
+            "filename": "13-1.jpg",
+            "size": 30689,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/OfvSSFosQBCKyjIfORTZ_small_13-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/nJDXERtCTvSIWbN3iQvA_large_13-1.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/fZzqHljoQH2T4o6d9cMs_full_13-1.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 420,
+        "BRAND": [
+          "recDHYvZk8TsIAXA7"
+        ],
+        "STORES TO BUY": [
+          "rechm2i95xMzIX7Cc",
+          "recnIF5YrvTPaSWDr",
+          "recVrXJDdaqa9yJdH"
+        ],
+        "colors": [
+          "black"
+        ],
+        "Price_on_official_website": 376,
+        "brands": "CARROTS",
+        "stores": "JUICE",
+        "Price_spread": 44
+      },
+      "createdTime": "2018-10-24T17:45:39.000Z"
+    },
+    {
+      "id": "recijio1pQmSJD33k",
+      "fields": {
+        "name": "SUPREME PRINTED ARC S/S TOP",
+        "Attachments": [
+          {
+            "id": "att6O61PWZGb8xKnN",
+            "url": "https://dl.airtable.com/8KE9mK9QauvvYNinVkCT_2-3.jpg",
+            "filename": "2-3.jpg",
+            "size": 12464,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/reJA8fxXRuCYOCV83TtU_small_2-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/YpaxiglGT8eenLG3ifUm_large_2-3.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/UqBwl2jRjqxTvgRFm3Xc_full_2-3.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          },
+          {
+            "id": "atturAtxBQFFNIU8T",
+            "url": "https://dl.airtable.com/e7LvwBY8R8CZNalyCtOU_2-2.jpg",
+            "filename": "2-2.jpg",
+            "size": 26007,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/DizWGo9R4CQGhzRCCLZ5_small_2-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/l76cvd6SSAuERz2nFy0X_large_2-2.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/75CSw94WTVa2RPMPxlIU_full_2-2.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          },
+          {
+            "id": "attrbO61q5NbuM1DB",
+            "url": "https://dl.airtable.com/qmF29zWvSoGxi5HGPi0T_2-1.jpg",
+            "filename": "2-1.jpg",
+            "size": 9306,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/4kN2uzYnQ0al6Yq05Hjg_small_2-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/XU94jdfUROA8g3zSMa7B_large_2-1.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/otA6AIy3R5qMU4jQqrLm_full_2-1.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          }
+        ],
+        "price": 1399,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recSoqRQONFVudKoq"
+        ],
+        "colors": [
+          "white",
+          "blue"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "EXTENSIVE PUBLICITY",
+        "Price_spread": 572
+      },
+      "createdTime": "2018-10-24T17:00:14.000Z"
+    },
+    {
+      "id": "reckdWC3GpxLhJ7Mg",
+      "fields": {
+        "name": "SUPREME PAYPHONE TEE",
+        "Attachments": [
+          {
+            "id": "attYmOfrVUyewrP5g",
+            "url": "https://dl.airtable.com/l9nqCm6RH6Ic5ds4HudA_4-3.jpg",
+            "filename": "4-3.jpg",
+            "size": 11481,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/YUo4ocL8S2STh8Czsz8B_small_4-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/PGyfEzsQQCi7nsduO76c_large_4-3.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/67yrO1ynTROGQDpXWCEF_full_4-3.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          },
+          {
+            "id": "att6a5IT3WR6NsDRn",
+            "url": "https://dl.airtable.com/t0qj9RGRQ2Cq5G1yNuF4_4-2.jpg",
+            "filename": "4-2.jpg",
+            "size": 13536,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/XupIpDIT3aAkf3SHAvLw_small_4-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/gD3vAD1TRSqOWJDC5ekQ_large_4-2.jpg",
+                "width": 451,
+                "height": 451
+              },
+              "full": {
+                "url": "https://dl.airtable.com/ZOP1ubdSsS2yGBHt3KI2_full_4-2.jpg",
+                "width": 451,
+                "height": 451
+              }
+            }
+          },
+          {
+            "id": "atthtsdJeRHRJuqnm",
+            "url": "https://dl.airtable.com/tFlEVYEQWujfBZPRRgK7_4-1.jpg",
+            "filename": "4-1.jpg",
+            "size": 6562,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/ySucz5NBTNaVeZQu1Ogm_small_4-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/LWdtzrfjQKO6FpCdyPSn_large_4-1.jpg",
+                "width": 454,
+                "height": 454
+              },
+              "full": {
+                "url": "https://dl.airtable.com/qvHnWmFpT7S62upQaBvs_full_4-1.jpg",
+                "width": 454,
+                "height": 454
+              }
+            }
+          }
+        ],
+        "price": 798,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recO9nKiANIarZt3C",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "rectGE4dXVIm3rWB9"
+        ],
+        "colors": [
+          "white",
+          "pink",
+          "black"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "POPCORN",
+        "Price_spread": -29
+      },
+      "createdTime": "2018-10-24T17:07:45.000Z"
+    },
+    {
+      "id": "recl0iEg1eLrlHw4I",
+      "fields": {
+        "name": "CHAMPION Pigment Dyed Heritage Tee",
+        "Attachments": [
+          {
+            "id": "att1WkmZtfsfCoB10",
+            "url": "https://dl.airtable.com/c7hEsUtkSqGWKmkkNizx_8-2.png",
+            "filename": "8-2.png",
+            "size": 408906,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/u2deZ3syRlWOHfmfv1mD_small_8-2.png",
+                "width": 38,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/SxTJpwqQSLWrrxfOAAEM_large_8-2.png",
+                "width": 545,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/76LdILMXSjC2RC1JEXrx_full_8-2.png",
+                "width": 992,
+                "height": 932
+              }
+            }
+          }
+        ],
+        "price": 329,
+        "BRAND": [
+          "recQRIIPWJpqf78oD"
+        ],
+        "STORES TO BUY": [
+          "recXjzi8x4tBVCg5M",
+          "rec0WHMU6k5nPMHFn",
+          "recbKXn7JH6Zd5qES"
+        ],
+        "colors": [
+          "blue",
+          "pink",
+          "white"
+        ],
+        "Price_on_official_website": 134,
+        "brands": "CHAMPION",
+        "stores": "OVERLAB",
+        "Price_spread": 195
+      },
+      "createdTime": "2018-10-24T17:35:03.000Z"
+    },
+    {
+      "id": "recopQnZMCSTKkgXh",
+      "fields": {
+        "name": "CARROTS COLLEGIATE TEE",
+        "Attachments": [
+          {
+            "id": "attF4njIiJhvO7Utl",
+            "url": "https://dl.airtable.com/mfN8bd9rR4KXrVaVtGPX_11-1.jpg",
+            "filename": "11-1.jpg",
+            "size": 12330,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/ikIxbCCnTHySzIswgLwc_small_11-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/Y6FPXlJ3TWaYTWW5ZoOl_large_11-1.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/Kvpr55juRdy0iYsyymps_full_11-1.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 398,
+        "BRAND": [
+          "recDHYvZk8TsIAXA7"
+        ],
+        "STORES TO BUY": [
+          "recO9nKiANIarZt3C",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "rectGE4dXVIm3rWB9"
+        ],
+        "colors": [
+          "black"
+        ],
+        "Price_on_official_website": 376,
+        "brands": "CARROTS",
+        "stores": "POPCORN",
+        "Price_spread": 22
+      },
+      "createdTime": "2018-10-24T17:40:52.000Z"
+    },
+    {
+      "id": "recpdIeRGfXVjJ53e",
+      "fields": {
+        "name": "CARROTS COLLEGIATE TEE",
+        "Attachments": [
+          {
+            "id": "attF4njIiJhvO7Utl",
+            "url": "https://dl.airtable.com/mfN8bd9rR4KXrVaVtGPX_11-1.jpg",
+            "filename": "11-1.jpg",
+            "size": 12330,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/ikIxbCCnTHySzIswgLwc_small_11-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/Y6FPXlJ3TWaYTWW5ZoOl_large_11-1.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/Kvpr55juRdy0iYsyymps_full_11-1.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 420,
+        "BRAND": [
+          "recDHYvZk8TsIAXA7"
+        ],
+        "STORES TO BUY": [
+          "rechm2i95xMzIX7Cc",
+          "recnIF5YrvTPaSWDr",
+          "recVrXJDdaqa9yJdH"
+        ],
+        "colors": [
+          "white",
+          "black",
+          "blue"
+        ],
+        "Price_on_official_website": 376,
+        "brands": "CARROTS",
+        "stores": "JUICE",
+        "Price_spread": 44
+      },
+      "createdTime": "2018-10-24T17:41:13.000Z"
+    },
+    {
+      "id": "recplaBycZM1Rpb2s",
+      "fields": {
+        "name": "SUPREME PRINTED ARC S/S TOP",
+        "Attachments": [
+          {
+            "id": "att6O61PWZGb8xKnN",
+            "url": "https://dl.airtable.com/8KE9mK9QauvvYNinVkCT_2-3.jpg",
+            "filename": "2-3.jpg",
+            "size": 12464,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/reJA8fxXRuCYOCV83TtU_small_2-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/YpaxiglGT8eenLG3ifUm_large_2-3.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/UqBwl2jRjqxTvgRFm3Xc_full_2-3.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          },
+          {
+            "id": "atturAtxBQFFNIU8T",
+            "url": "https://dl.airtable.com/e7LvwBY8R8CZNalyCtOU_2-2.jpg",
+            "filename": "2-2.jpg",
+            "size": 26007,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/DizWGo9R4CQGhzRCCLZ5_small_2-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/l76cvd6SSAuERz2nFy0X_large_2-2.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/75CSw94WTVa2RPMPxlIU_full_2-2.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          },
+          {
+            "id": "attrbO61q5NbuM1DB",
+            "url": "https://dl.airtable.com/qmF29zWvSoGxi5HGPi0T_2-1.jpg",
+            "filename": "2-1.jpg",
+            "size": 9306,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/4kN2uzYnQ0al6Yq05Hjg_small_2-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/XU94jdfUROA8g3zSMa7B_large_2-1.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/otA6AIy3R5qMU4jQqrLm_full_2-1.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          }
+        ],
+        "price": 1298,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recO9nKiANIarZt3C",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "rectGE4dXVIm3rWB9"
+        ],
+        "colors": [
+          "white",
+          "grey",
+          "black"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "POPCORN",
+        "Price_spread": 471
+      },
+      "createdTime": "2018-10-24T16:55:50.000Z"
+    },
+    {
+      "id": "recqmXYzjTWqUEulq",
+      "fields": {
+        "name": "ANTISOCIALSOCIALCLUB KKOCH TEE",
+        "Attachments": [
+          {
+            "id": "attp6KtkOIMn2Vm9Q",
+            "url": "https://dl.airtable.com/zPQaw7LjTV6IcMcu7mIV_16-3.jpg",
+            "filename": "16-3.jpg",
+            "size": 17740,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/wZgRTdu5SoChEqoHjaOC_small_16-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/qo1JuTTQO6YQl1s8X54v_large_16-3.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/NBIhgH1LRDiwKDtIACkR_full_16-3.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "att4xB8uY1NMIbUL7",
+            "url": "https://dl.airtable.com/3HTlGJQqme7m8u7PqSxQ_16-2.jpeg",
+            "filename": "16-2.jpeg",
+            "size": 21714,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/pRwX6fg7SDqa1UCw9xtx_small_16-2.jpeg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/TFi1ErvtRIOCDJJtlcsn_large_16-2.jpeg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/BLaB54nSzqwjcntiM2iS_full_16-2.jpeg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          },
+          {
+            "id": "att7oeahvzlTeXJTN",
+            "url": "https://dl.airtable.com/t4m8oleMTVGQchDAhhUu_16-1.jpg",
+            "filename": "16-1.jpg",
+            "size": 15924,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/fomi1EJ0TzEE6cTk66HQ_small_16-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/xSYISg2qTDS5yiaaMzfS_large_16-1.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "full": {
+                "url": "https://dl.airtable.com/kK1oMRd5T6aMkSUVnws2_full_16-1.jpg",
+                "width": 480,
+                "height": 480
+              }
+            }
+          }
+        ],
+        "price": 548,
+        "BRAND": [
+          "recP1RC8WlW2m2yid"
+        ],
+        "STORES TO BUY": [
+          "rectGE4dXVIm3rWB9",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "recO9nKiANIarZt3C"
+        ],
+        "colors": [
+          "white",
+          "black",
+          "pink"
+        ],
+        "Price_on_official_website": 238,
+        "brands": "ANTISOCIALSOCIALCLUB",
+        "stores": "POPCORN",
+        "Price_spread": 310
+      },
+      "createdTime": "2018-10-25T17:16:30.000Z"
+    },
+    {
+      "id": "rect6INqO0igsnt7c",
+      "fields": {
+        "name": "SUPREME ETERNAL TEE",
+        "Attachments": [
+          {
+            "id": "attM4wR7GsbvSVvby",
+            "url": "https://dl.airtable.com/fdCbx1kgTGGwTRTnR84O_6-4.jpg",
+            "filename": "6-4.jpg",
+            "size": 13854,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/l2BFlgxLQJWZyjBbLN4f_small_6-4.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/VCn2jNZ7QtawWlOhvDfK_large_6-4.jpg",
+                "width": 454,
+                "height": 454
+              },
+              "full": {
+                "url": "https://dl.airtable.com/bmLsPKn6Q9WMSZyl7Ism_full_6-4.jpg",
+                "width": 454,
+                "height": 454
+              }
+            }
+          },
+          {
+            "id": "attZrmkOIMa3RTpfV",
+            "url": "https://dl.airtable.com/f8m1fHiwTxu1Sk5WgOfw_6-3.jpg",
+            "filename": "6-3.jpg",
+            "size": 15789,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/ayBQ9jnVQt6dBX1ghXaX_small_6-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/DhtUBSBqTpFSVumthGJA_large_6-3.jpg",
+                "width": 453,
+                "height": 453
+              },
+              "full": {
+                "url": "https://dl.airtable.com/nNpusc3TOKmBDBEeiZbw_full_6-3.jpg",
+                "width": 453,
+                "height": 453
+              }
+            }
+          },
+          {
+            "id": "att9bSb9yXPWu2aXZ",
+            "url": "https://dl.airtable.com/Z4iwWOCISau2kRexhqjQ_6-2.jpg",
+            "filename": "6-2.jpg",
+            "size": 15539,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/dWAQ2WQSzryggr79IvA5_small_6-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/jXwhNk92RYKjXmf9LAOQ_large_6-2.jpg",
+                "width": 453,
+                "height": 453
+              },
+              "full": {
+                "url": "https://dl.airtable.com/tHuJAgyeT7iofuEkiAf4_full_6-2.jpg",
+                "width": 453,
+                "height": 453
+              }
+            }
+          },
+          {
+            "id": "att5GQORvOtUN8l8k",
+            "url": "https://dl.airtable.com/qlHtKi4YROGeu8N9sYKs_6-1.jpg",
+            "filename": "6-1.jpg",
+            "size": 8677,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/f4RncLb7SaaxQMvRbEsQ_small_6-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/M0bJxRYFSrn172NB0PYh_large_6-1.jpg",
+                "width": 455,
+                "height": 455
+              },
+              "full": {
+                "url": "https://dl.airtable.com/7DfrUUFROW0WX33ppCkT_full_6-1.jpg",
+                "width": 455,
+                "height": 455
+              }
+            }
+          }
+        ],
+        "price": 899,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recSoqRQONFVudKoq"
+        ],
+        "colors": [
+          "green"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "EXTENSIVE PUBLICITY",
+        "Price_spread": 72
+      },
+      "createdTime": "2018-10-24T17:16:23.000Z"
+    },
+    {
+      "id": "recuMkkHpA6KUqCX5",
+      "fields": {
+        "name": "CHAMPION Pigment Dyed Heritage Tee",
+        "Attachments": [
+          {
+            "id": "att1WkmZtfsfCoB10",
+            "url": "https://dl.airtable.com/c7hEsUtkSqGWKmkkNizx_8-2.png",
+            "filename": "8-2.png",
+            "size": 408906,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/u2deZ3syRlWOHfmfv1mD_small_8-2.png",
+                "width": 38,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/SxTJpwqQSLWrrxfOAAEM_large_8-2.png",
+                "width": 545,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/76LdILMXSjC2RC1JEXrx_full_8-2.png",
+                "width": 992,
+                "height": 932
+              }
+            }
+          }
+        ],
+        "price": 209,
+        "BRAND": [
+          "recQRIIPWJpqf78oD"
+        ],
+        "STORES TO BUY": [
+          "recO9nKiANIarZt3C",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "rectGE4dXVIm3rWB9"
+        ],
+        "colors": [
+          "blue"
+        ],
+        "Price_on_official_website": 134,
+        "brands": "CHAMPION",
+        "stores": "POPCORN",
+        "Price_spread": 75
+      },
+      "createdTime": "2018-10-24T17:34:30.000Z"
+    },
+    {
+      "id": "recvd1ISHh8Bq2RcV",
+      "fields": {
+        "name": "RIPNDIP PILL SOCKS",
+        "Attachments": [
+          {
+            "id": "attmWX2gwb813YX0N",
+            "url": "https://dl.airtable.com/DMPOcmH2RrKrlTihRC5N_7-3.jpg",
+            "filename": "7-3.jpg",
+            "size": 137392,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/UNug5BYQVOjodgvIcG5D_small_7-3.jpg",
+                "width": 29,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/Vem6XVL4Q8i8X677NzlE_large_7-3.jpg",
+                "width": 512,
+                "height": 628
+              },
+              "full": {
+                "url": "https://dl.airtable.com/SFn7yXSJT7GfGgH7UNxv_full_7-3.jpg",
+                "width": 1395,
+                "height": 1710
+              }
+            }
+          }
+        ],
+        "price": 120,
+        "BRAND": [
+          "recrDCnXEr5CIcE9G"
+        ],
+        "STORES TO BUY": [
+          "rechm2i95xMzIX7Cc",
+          "recnIF5YrvTPaSWDr",
+          "recVrXJDdaqa9yJdH"
+        ],
+        "colors": [
+          "pink"
+        ],
+        "Price_on_official_website": 94,
+        "brands": "RIPNDIP",
+        "stores": "JUICE",
+        "Price_spread": 26
+      },
+      "createdTime": "2018-10-24T17:21:28.000Z"
+    },
+    {
+      "id": "recx0151LVkNfgYkJ",
+      "fields": {
+        "name": "SUPREME NOUVEAU LOGO TEE",
+        "Attachments": [
+          {
+            "id": "attZae5OSX0A1kUue",
+            "url": "https://dl.airtable.com/EA3XKEBKTdeJDuXb2QF4_1-3.jpg",
+            "filename": "1-3.jpg",
+            "size": 11813,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/CyEvGYvQWaU7oB2OHQkL_small_1-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/u1kmjerwQ3KRjc6fndtK_large_1-3.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/zB8ghNxRGPYK5wSmovdQ_full_1-3.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          },
+          {
+            "id": "att8EMHwdcqr7uSvC",
+            "url": "https://dl.airtable.com/hFngLPWhQsCrmh6WcWlQ_1-2.jpg",
+            "filename": "1-2.jpg",
+            "size": 14879,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/uZPh1W4wRY69RKqSePKv_small_1-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/BLUybgHWScGMmf9t85RL_large_1-2.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/CqA6GlmSRXeEDvnRk4ix_full_1-2.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          },
+          {
+            "id": "attLIGTB8Ycm4G3ZA",
+            "url": "https://dl.airtable.com/7tyTx8laTouL63RpLPQm_1-1.jpg",
+            "filename": "1-1.jpg",
+            "size": 6158,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/dCHt9M9iQZelEgv2W6WS_small_1-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/NcCrozNKQweq5CmApvFs_large_1-1.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/Nc3jgeCQTky58WrFxo8I_full_1-1.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          }
+        ],
+        "price": 1499,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recSoqRQONFVudKoq"
+        ],
+        "colors": [
+          "white"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "EXTENSIVE PUBLICITY",
+        "Price_spread": 672
+      },
+      "createdTime": "2018-10-24T16:59:45.000Z"
+    },
+    {
+      "id": "recxawfl2jTQdIu8S",
+      "fields": {
+        "name": "SUPREME NOUVEAU LOGO TEE",
+        "Attachments": [
+          {
+            "id": "attZae5OSX0A1kUue",
+            "url": "https://dl.airtable.com/EA3XKEBKTdeJDuXb2QF4_1-3.jpg",
+            "filename": "1-3.jpg",
+            "size": 11813,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/CyEvGYvQWaU7oB2OHQkL_small_1-3.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/u1kmjerwQ3KRjc6fndtK_large_1-3.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/zB8ghNxRGPYK5wSmovdQ_full_1-3.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          },
+          {
+            "id": "att8EMHwdcqr7uSvC",
+            "url": "https://dl.airtable.com/hFngLPWhQsCrmh6WcWlQ_1-2.jpg",
+            "filename": "1-2.jpg",
+            "size": 14879,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/uZPh1W4wRY69RKqSePKv_small_1-2.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/BLUybgHWScGMmf9t85RL_large_1-2.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/CqA6GlmSRXeEDvnRk4ix_full_1-2.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          },
+          {
+            "id": "attLIGTB8Ycm4G3ZA",
+            "url": "https://dl.airtable.com/7tyTx8laTouL63RpLPQm_1-1.jpg",
+            "filename": "1-1.jpg",
+            "size": 6158,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/dCHt9M9iQZelEgv2W6WS_small_1-1.jpg",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/NcCrozNKQweq5CmApvFs_large_1-1.jpg",
+                "width": 450,
+                "height": 450
+              },
+              "full": {
+                "url": "https://dl.airtable.com/Nc3jgeCQTky58WrFxo8I_full_1-1.jpg",
+                "width": 450,
+                "height": 450
+              }
+            }
+          }
+        ],
+        "price": 1398,
+        "BRAND": [
+          "recOMlICjHLDxC9z9"
+        ],
+        "STORES TO BUY": [
+          "recO9nKiANIarZt3C",
+          "recP9EMwLJnfCXNAe",
+          "rectDrqaJdUPpk623",
+          "rectGE4dXVIm3rWB9"
+        ],
+        "colors": [
+          "red",
+          "white",
+          "black"
+        ],
+        "Price_on_official_website": 827,
+        "brands": "SUPREME",
+        "stores": "POPCORN",
+        "Price_spread": 571
+      },
+      "createdTime": "2018-10-24T16:31:09.000Z"
+    }
+  ]
+}
