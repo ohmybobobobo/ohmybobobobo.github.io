@@ -20,7 +20,7 @@ $(document).ready(function(){
               }); // end .each
 
 
-           $('table#table1').DataTable( {
+           $('table#example').DataTable( {
                data: table1_dataSet,
                retrieve: true,
                columns: [
