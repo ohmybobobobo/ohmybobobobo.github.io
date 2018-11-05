@@ -70,7 +70,6 @@ $(document).ready(function(){
         } );
 
                       var chart = c3.generate({
-                      binto: {chart},
                       data: {
                       columns: table2_dataSet,
                       type : 'bar'
