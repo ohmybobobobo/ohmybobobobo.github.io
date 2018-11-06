@@ -13,6 +13,19 @@
   <!-- CSS dependencies -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
   <link rel="stylesheet" href="wireframe.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+  integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+  crossorigin=""/>
+  <!-- Make sure you put this AFTER Leaflet's CSS -->
+  <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"
+  integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA=="
+  crossorigin=""></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.js"></script>
+  <script src="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js">
+  </script>
 </head>
 
 <body class="">
@@ -78,16 +91,62 @@
           <br>
           <button id="B3" type="button" class="btn btn-success">View as list</button>
           <button id="B1" type="button" class="btn btn-danger">numbers of items</button>
+          <button id="B5" type="button" class="btn btn-info">average selling price</button>
+
           </br>
           <br>
          <iframe id="airtable-embed3" src="https://airtable.com/embed/shrAWgjsh91KY6rVM?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
          <iframe id="airtable-embed4" style="display: none" src="https://airtable.com/embed/shrpBXHnj5qVvPeSG?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
        </br>
-       <br>
-       <div class="table-responsive">
-         <table id="example2" width="100%" class="table table-bordered"></table>
-       </div>
-       <div id="chart"></div>
+                   <br>
+                   <div class="table-responsive">
+                     <table id="example2" width="100%" class="table table-bordered"></table>
+                   </div>
+                   <div id="chart"></div>
+                   <div class="table-responsive">
+                     <table id="example4" width="100%" class="table table-bordered"></table>
+                   </div>
+                   <div id="chart2"></div>
+                    <Br>
+                    </br>
+                    <div id="mapid" style="width: 1100px; height: 440px; border: 1px solid #AAA;"></div>
+                    <br></br>
+                    <button type="button" class="btn btn-success" id='roll_up' onclick="show_stores();">Show Stores</button><br>
+                    <script>
+                       var mapboxTiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution: 'Map data &copy; <a href="https://openstreetmap.org">OpenStreetMap</a>', maxZoom: 18,})
+                       var map = L.map('mapid')
+                            .addLayer(mapboxTiles)
+                            .setView([22.3, 114.2], 13);
+
+                        var items = [];
+                            var airtable_read_endpoint = "https://api.airtable.com/v0/app9lhFw2d0zCNuUL/Stores?api_key=keyzw1peVZWig6wbC&view=Grid%20view";
+                            var data = [];
+                            $.getJSON(airtable_read_endpoint, function(result) {
+                                   $.each(result.records, function(key,value) {
+                                       items = {};
+                                           items["name"] = value.fields.stores_;
+                                           items["url"] = value.fields.url;
+                                           items["pics"] = value.fields.pics;
+                                           items["location"] = value.fields.location;
+                                           items["telephone"] = value.fields.telephone;
+                                           items["business_hours"] = value.fields.business_hours;
+                                           items["n"] = value.fields.n;
+                                           items["e"] = value.fields.e;
+                                           data.push(items);
+                                           console.log(items);
+                                    }); // end .each
+                            }); // end getJSON
+                    </script>
+                    <script>
+                    function show_stores(){
+                      for (var i in data) {
+                          var latlng = L.latLng({ lat: data[i].n, lng: data[i].e });
+                          L.marker( latlng )
+                              .bindPopup( '<a href="' + data[i].url + '" target="_blank">' + '<img src="' + data[i].pics+'" width = "200px"><br>'+data[i].name + '</a>' + "<br><b>" + data[i].location +"</b>" + "<br>" + data[i].business_hours + "</br>" + data[i].telephone)
+                              .addTo(map);
+                      }
+                    }
+                    </script>
         </div>
       </div>
     </div>
@@ -120,6 +179,7 @@
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.1.29/c3.js"></script>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.1.29/c3.css" rel="stylesheet" type="text/css">
+
   <script>
    $(document).ready(function(){
      $('#B3').on('click',function(){

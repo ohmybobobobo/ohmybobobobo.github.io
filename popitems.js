@@ -13,7 +13,6 @@ $(document).ready(function(){
                      table1_items.push(value.fields.price);
                      table1_items.push(value.fields.Price_on_official_website);
                      table1_items.push(value.fields.Price_spread);
-                     table1_items.push(value.fields.brands);
                      table1_items.push(value.fields.stores);
                      table1_dataSet.push(table1_items);
                      console.log(table1_items);
@@ -24,24 +23,25 @@ $(document).ready(function(){
                data: table1_dataSet,
                retrieve: true,
                columns: [
-                   { title: "name",
+                   { title: "NAME",
                      defaultContent:""},
-                   { title: "colors",
+                   { title: "COLORS",
                        defaultContent:"" },
-                   { title: "price",
+                   { title: "PRICE",
                      defaultContent:"" },
-                   { title: "Price_on_official_website",
+                   { title: "PRICE(official website)",
                      defaultContent:""},
-                   { title: "Price_spread",
+                   { title: "PRICE SPREAD",
                        defaultContent:""},
-                   { title: "brands",
-                     defaultContent:""},
-                   { title: "stores",
+                   { title: "STORES",
                      defaultContent:""},
                ]
            } );
+
       }); // end .getJSON
  }); // end button
+
+
 
  $('#B1').on('click', function() {
    var table2_items = [];
@@ -62,9 +62,9 @@ $(document).ready(function(){
             data: table2_dataSet,
             retrieve: true,
             columns: [
-                { title: "stores_",
+                { title: "STORES",
                   defaultContent:""},
-                { title: "items_provided",
+                { title: "ITEMS",
                     defaultContent:""},
             ]
         } );
@@ -75,14 +75,89 @@ $(document).ready(function(){
                       type : 'bar'
                       },
                       axis: {
-                      x: {label: 'stores_'},
-                      y: {label: 'items_provided'}
+                      x: {label: 'stores'},
+                      y: {label: 'items'}
                       },
                       bar: {
                       title: "numbers of items",
                       }
                       });
    }); // end .getJSON
+}); // end button
+
+
+
+ $('#B5').on('click', function() {
+   var table4_items = [];
+   var i = 0;
+   var airtable_read_endpoint = "https://api.airtable.com/v0/app9lhFw2d0zCNuUL/Stores?api_key=keyzw1peVZWig6wbC&view=Grid%20view";
+   var table4_dataSet = [];
+   $.getJSON(airtable_read_endpoint, function(result) {
+          $.each(result.records, function(key,value) {
+              table4_items = [];
+                  table4_items.push(value.fields.stores_);
+                  table4_items.push(value.fields.average_selling_price);
+                  table4_dataSet.push(table4_items);
+                  console.log(table4_items);
+           }); // end .each
+                  console.log(table4_dataSet);
+
+        $('table#example4').DataTable( {
+            data: table4_dataSet,
+            retrieve: true,
+            columns: [
+                { title: "STORES",
+                  defaultContent:""},
+                { title: "AVERAGE SELLING PRICE",
+                    defaultContent:""},
+            ]
+        } );
+
+                      var chart2 = c3.generate({
+                      data: {
+                      columns: table4_dataSet,
+                      type: 'bar'
+                      },
+                      axis: {
+                      x: {label: 'stores'},
+                      y: {
+                        show: true,
+                        label: 'PRICE'}
+                      },
+                      bar: {
+                      title: "AVERAGE SELLING PRICE",
+                      }
+                      });
+   }); // end .getJSON
+}); // end button
+
+$('#B4').on('click', function() {
+ var table3_items = [];
+  var i = 0;
+  var airtable_read_endpoint = "https://api.airtable.com/v0/app9lhFw2d0zCNuUL/Brands?api_key=keyzw1peVZWig6wbC&view=Grid%20view";
+  var table3_dataSet = [];
+  $.getJSON(airtable_read_endpoint, function(result) {
+         $.each(result.records, function(key,value) {
+             table1_items = [];
+                 table3_items.push(value.fields.brands_);
+                 table3_items.push(value.fields.Average_selling_Price);
+                 table3_dataSet.push(table3_items);
+                 console.log(table3_items);
+          }); // end .each
+
+
+       $('table#example3').DataTable( {
+           data: table3_dataSet,
+           retrieve: true,
+           columns: [
+               { title: "BRANDS",
+                 defaultContent:""},
+               { title: "AVERAGE SELLING PRICE",
+                   defaultContent:"" },
+           ]
+       } );
+
+  }); // end .getJSON
 }); // end button
 
 }); // document ready
