@@ -17,6 +17,7 @@
 
     gtag('config', 'UA-129094912-1');
   </script>
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- PAGE settings -->
@@ -90,7 +91,7 @@
           <div class="row">
             <div class="col-3 p-0"> <img class="img-fluid d-block" src="img/RI/1.png"> </div>
             <div class="col-9">
-              <p class="lead mb-1"> <b>#1</b> HKD$1081</p>
+              <p class="lead mb-1"> <b>#1</b> HKD$6500</p>
               <p class="mb-0">Supreme Comme des Garcons SHIRT Split Box Logo Tee White</p>
             </div>
           </div>
@@ -99,7 +100,7 @@
           <div class="row">
             <div class="col-3 p-0"> <img class="img-fluid d-block" src="img/RI/2.png"> </div>
             <div class="col-9">
-              <p class="lead mb-1"> <b>#2</b> HKD$1699</p>
+              <p class="lead mb-1"> <b>#2</b> HKD$3699</p>
               <p class="mb-0">Supreme The Killer Trust Tee Black</p>
             </div>
           </div>
@@ -226,8 +227,13 @@
         <div class="col-md-12">
           <h1 class="mb-3">Find your <mark>favorable items</mark> with the most worthy price!</h1>
           <br>
-          <button id="B2" type="button" class="btn btn-primary">View all the items</button>
+          <button id="B9" type="button" class="btn btn-primary">View all the items</button>
+          <button id="B10" type="button" class="btn btn-primary">Sort by price</button>
           <br>
+          <br>
+          <iframe id="airtable-embed2" style="display: none" src="https://airtable.com/embed/shrMyWd1VUzmo0jVn?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>                  </br>
+          <iframe id="airtable-embed3" style="display: none" src="https://airtable.com/embed/shrSfRTBNbhnvRApX?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+          </br>
           <div class="table-responsive">
             <table id="example" style="width:100%" class="table table-bordered"></table>
           </div>
@@ -267,6 +273,19 @@
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.1.29/c3.js"></script>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.1.29/c3.css" rel="stylesheet" type="text/css">
   <script src="popitems.js"></script>
+  <script>
+   $(document).ready(function(){
+     $('#B9').on('click',function(){
+       $('#airtable-embed2').toggle();
+     });
+   });
+
+   $(document).ready(function(){
+     $('#B10').on('click',function(){
+       $('#airtable-embed3').toggle();
+     });
+   });
+</script>
   <pingendo onclick="window.open('https://pingendo.com/', '_blank')" style="cursor:pointer;position: fixed;bottom: 20px;right:20px;padding:4px;background-color: #00b0eb;border-radius: 8px; width:220px;display:flex;flex-direction:row;align-items:center;justify-content:center;font-size:14px;color:white">Made with Pingendo Free&nbsp;&nbsp;<img src="https://pingendo.com/site-assets/Pingendo_logo_big.png" class="d-block" alt="Pingendo logo" height="16"></pingendo>
 </body>
 
