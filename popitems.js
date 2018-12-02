@@ -148,7 +148,7 @@ $(document).ready(function(){
                   $.each(result.records, function(key,value) {
                       table4_items = [];
                           table4_items.push(value.fields.stores_);
-                          table4_items.push(value.fields.average_selling_price);
+                          table4_items.push(value.fields.average_price_spread);
                           table4_dataSet.push(table4_items);
                           console.log(table4_items);
                    }); // end .each
@@ -160,7 +160,7 @@ $(document).ready(function(){
                     columns: [
                         { title: "STORES",
                           defaultContent:""},
-                        { title: "AVERAGE SELLING PRICE",
+                        { title: "AVERAGE PRICE SPREAD",
                             defaultContent:""},
                     ]
                 } );
@@ -178,10 +178,10 @@ $(document).ready(function(){
                               x: {label: 'stores'},
                               y: {
                                 show: true,
-                                label: 'PRICE'}
+                                label: 'PRICE SPREAD'}
                               },
                               bar: {
-                              title: "AVERAGE SELLING PRICE",
+                              title: "AVERAGE PRICE SPREAD",
 
                               }
                               });
