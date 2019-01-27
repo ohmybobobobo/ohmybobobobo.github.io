@@ -529,7 +529,7 @@ input::-webkit-input-placeholder {
 	padding-bottom: 50px;
 }
 .single-showcase-box {
-	padding: 0 0 40px;
+	padding: 0 0 0px;
 }
 .single-showcase-box p {
 	margin: 20px 0 25px;
